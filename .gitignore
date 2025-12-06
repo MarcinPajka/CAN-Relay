@@ -1,0 +1,10 @@
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+
+# CAN / Logs
+*.log
+*.asc
+*.blf
