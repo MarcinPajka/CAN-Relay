@@ -140,6 +140,31 @@ This document describes Relay module SWE 1 requirements.
 | Allocation                    | Relay module |
 | Status                        | Proposed |
 
+| Name | Description |
+|---|---|
+| ID                            | SYS-REQ-011 |
+| Title                         | Relay hardware |
+| Description                   | Relay module shall run on Raspberry PI 5 |
+| Acceptance / Success criteria | JSON message exchange |
+| Verification method           | Test |
+| Verification reference        | --- |
+| Allocation                    | Relay module |
+| Status                        | Proposed |
+
+
+| Name | Description |
+|---|---|
+| ID                            | SYS-REQ-012 |
+| Title                         | Relay CAN hardware |
+| Description                   | Relay module shall use CAN extention HAT - MCP2515 + SI65HVD230 - Waveshare 17912 |
+| Acceptance / Success criteria | JSON message exchange |
+| Verification method           | Test |
+| Verification reference        | --- |
+| Allocation                    | Relay module |
+| Status                        | Proposed |
+
+
+
 
 
 
